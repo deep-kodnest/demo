@@ -1,0 +1,30 @@
+1. Explain about java STRINGS. What are immutable strings?
+2. What is the difference between == and equals() ?
+3. Explain the working of compareTo().
+4. List any 7 inbuilt methods of the String class and its use.
+5. Differentiate between StringBuffer and StringBuilder classes.
+6. Differentiate between length and length().
+7. Explain the main() of java in details.
+8. What is method overloading?
+9. What are the rules for method overloading to exist?
+10. What is encapsulation?
+11. Discuss about constructors?
+12. What is constructor chaining?
+13. What is local chaining?
+14. What do you understand by the shadowing problem? How to overcome it?
+15. Explain the flow of a java program if it has following components- static: variables, blocks & methods;
+                                                                       instance: variables, blocks & methods; 
+                                                                       constructors
+16. Describe the use of static variables with programming example.
+17. When should we create a method as static? 
+18. What is the use of a static block?
+19. What can be the use of an instance block? When is it executed?
+20. From which of these can we access static variables? static blocks? static methods? instance blocks instance methods?
+21. Why can't we access instance variable from static blocks?
+
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+
+Java
+
+The programming language which was introduced in 1972 is known as "C" programming language, and it was developed at BELL labs in the USA.
+a)True
+b)False
+ANS: A
+Explanation: Fact
+
+To create an object in Java, the new keyword is used.
+a) True
+b) False
+ANS: A
+Explanation: JVM is instructed to allot a block of memory, i.e. an object on the heap segment as soon as it encounters the new keyword.
+
+According to object orientation principles there can be few objects which can be in isolation.
+a)True
+b)False
+ANS: B
+Explanation: No object exists in perfect isolation; every object is in constant interaction with one object or the other.
+
+A byte is a storage space available on the microprocessor to store the data.
+a) True 
+b) False
+
+Ans: b
+Explanation: A byte is a unit for data measurnment. Also, microprocessors have cache for temporary storage of data.
+
+A source file is a complete file.
+a) True
+b) False
+
+Ans: b
+Explanation: A source file is written in high level language. Before such a file is handed over to the microprocessor, it needs to be converted into a machine readable format. In addition, necessary binary files are also added to a source file in order to finally get the complete file, which is also known as an executable (.exe)  file.
+
+
+An interpreter takes input in high-level language and produces the output in machine level language.
+a) True
+b) False
+
+Ans: a
+Explanation:  An interpreter is a software, which converts each high-level program statement into equivalent machine-level code. 
+
+An object “HAS-part” is used to deal with the behaviours.
+a) True 
+b) False
+
+Ans: B
+Explanation:  An object considerably has 2 parts- “HAS-part” and “DOES-part”. “HAS-part” refers to the properties/ states/ attributes of an object whereas behaviours are dealt by the “DOES-part”.
+
+
+The speed of working of the hard disk is fast when compared to the speed of working of the microprocessor.
+a) True 
+b) False
+
+Ans: b
+Explanation:  A microprocessor is created using semiconductor technology which is way faster than the magnetic technology composed by the hard disk.
+
+The compiler takes input in high-level language and produces the output in machine level language.
+a) True
+b) False
+
+Ans: a
+Explanation:  A compiler is a software, which converts code in high-level language into equivalent machine-level code. 
+
+
+Java is a platform independent programming language.
+a) True
+b) False
+
+Ans: a
+Explanation:  A java byte code can be executed on any platform (OS) regardless of the platform it has been compiled on.
+
+
+ _________ is responsible to take an executable file from the secondary memory and to place it on the primary memory.
+a) Loader
+b) Linker 
+c) Both a and b
+d) None of the above
+
+Ans: a
+Explanation:  An loader is a software, which takes a copy of a file (executable file in this case) present on the hard disk (secondary memory)  and to place it on the RAM (primary memory).
+
+
+Library files are coded in ___________ .
+a) High-level language
+b) Machine level language
+c) Assembly level language
+d) All of the above
+
+Ans: b 
+Explanation:  Library files are coded in Machine Level Language. As a result, these codes need not be compiled before the linking loader embeds them to the object file hence generating the executable file.
+
+
+ Which of the following are the disadvantages of RAM?
+a) Volatile
+b) Compact
+c) Expensive
+d) Both a and c
+
+Ans: d
+Explanation:  RAM is volatile as all its data is erased as soon as electricity stops flowing through it. Also, since it is made using semiconductor technology, RAM is expensive.
+
+_______ is a file that is generated after compiling the source code.
+a) Source file
+b) Object file
+c) Executable file
+d) None of the above
+
+Ans: b
+Explanation:  The compiler takes source code as the input and generates object file (MLL) as output.
+
+15. _______ is a file that is generated after linking a set of object files.
+a) Source file
+b) Object file
+c) Executable file
+d) None of the above
+
+Ans: c
+Explanation:  An object file is an incomplete file. The linking loader adds the necessary library files and other object files before the file is finally complete and the executable(.exe) file is generated.
+
+16.Which file contains a bytecode?
+A.Function file.
+B.Object file.
+C.Class file.
+D.None of the above.
+Ans:C
+Explanation:  It can be observed that a bytecode file has .class extension.
+
+17.JVM takes ______ as an input and produces ___________ as an output.
+A.Byte Code,Machine code
+B.Machine code,Byte Code
+C.Byte Code, Assembly level code
+D.None
+Ans: A
+Explanation:  JVM takes Byte Code as an input and produces Machine code as an output.
+
+
+Java can be coded on one platform and can be executed on any other platform. Which feature is this depicting?
+A.Portability
+B.Dynamic
+C.Secure
+D.None
+Ans: A
+Explanation:  Portability is a feature which enables a programming language to be compiled on one platform and be executable on multiple platforms.
+
+19. The objects which don’t have any references are known as____________ .
+A. Empty object
+B. Anonymous object
+C. Singleton object
+D. None of the above
+Ans: B
+Explanation:  For efficient utilization of memory on the heap, java runs a garbage collector thread every few milliseconds. This thread collects all such objects which don’t have any references. Such objects go by the name anonymous/ garbage objects.
+
+20. Portability can also be called as?
+A.Architecture Neutral
+B.Machine Independent
+C.Platform Independent
+D.All of the above.
+
+Ans:D
+Explanation:  Portability can also be called as a language being Architecture Neutral, Machine Independent, Platform Independent or even Write Once Run Anywhere.
+
